@@ -295,6 +295,7 @@ footer {
         padding: 40px 20px;
     }
     footer a {
-        color: #FFF
+        color: #FFF;
+        text-decoration: none;
     }
 }
